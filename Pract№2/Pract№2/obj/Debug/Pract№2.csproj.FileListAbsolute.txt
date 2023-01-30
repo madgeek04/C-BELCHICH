@@ -1,0 +1,11 @@
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract_2.Pract2.resources
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract_2.Properties.Resources.resources
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\bin\Debug\Pract№2.exe.config
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\bin\Debug\Pract№2.exe
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\bin\Debug\Pract№2.pdb
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.exe
+C:\Users\mad_g\source\repos\Pract№2\Pract№2\obj\Debug\Pract№2.pdb

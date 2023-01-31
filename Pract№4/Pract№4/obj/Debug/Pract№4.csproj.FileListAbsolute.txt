@@ -1,0 +1,11 @@
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\bin\Debug\Pract№4.exe.config
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\bin\Debug\Pract№4.exe
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\bin\Debug\Pract№4.pdb
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract_4.Form1.resources
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract_4.Properties.Resources.resources
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.exe
+C:\Users\mad_g\source\repos\Pract№4\Pract№4\obj\Debug\Pract№4.pdb

@@ -1,0 +1,11 @@
+C:\Users\mad_g\source\repos\pr9\pr9\bin\Debug\pr9.exe.config
+C:\Users\mad_g\source\repos\pr9\pr9\bin\Debug\pr9.exe
+C:\Users\mad_g\source\repos\pr9\pr9\bin\Debug\pr9.pdb
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.Form1.resources
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.Properties.Resources.resources
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.exe
+C:\Users\mad_g\source\repos\pr9\pr9\obj\Debug\pr9.pdb
